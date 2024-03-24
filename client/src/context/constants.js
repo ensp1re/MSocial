@@ -1,0 +1,5 @@
+export const reducerCases = {
+  IS_MORE_OPEN: "IS_MORE_OPEN",
+  IS_CHAT_OPENED: "IS_CHAT_OPENED",
+  IS_TYPE_SETTING: "IS_TYPE_SETTING",
+};
